@@ -1,16 +1,54 @@
-## Hi there 👋
+<h1 align="center">👋 Hey, I'm Orange</h1>
 
-<!--
-**OrangeTTC/OrangeTTC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/Orange"><img src="https://img.shields.io/github/followers/Orange?label=Follow&style=social" alt="GitHub Followers"></a>
+  <a href="mailto:1173205140@qq.com"><img src="https://img.shields.io/badge/Email-1173205140%40qq.com-blue?style=flat-square&logo=qq" alt="Email"></a>
+  <img src="https://img.shields.io/badge/Age-21-blueviolet?style=flat-square" alt="Age">
+  <img src="https://img.shields.io/badge/School-UESTC-red?style=flat-square&logo=university" alt="School">
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  🚁 Four-rotor UAV Researcher | 🤖 Reinforcement Learning Enthusiast | 🔌 IoT & Embedded Developer
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <i>Currently falling deeper in love with Tengtengcai every day 💞</i>
+</p>
+
+---
+
+### 🔬 My Research Focus
+- **UAV Control Systems**  
+  Autonomous navigation, adaptive control algorithms, and flight stability optimization for quadcopters 🛸
+
+- **Reinforcement Learning**  
+  Exploring deep RL applications in UAV path planning and dynamic environment adaptation 🧠
+
+- **IoT & Embedded Systems**  
+  Developing hardware-software integrated solutions with STM32, ESP32 (Espressif), and sensor networks 🔧
+
+---
+
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white">
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"> <!-- 新增ESP32徽章 -->
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Orange&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Orange&theme=radical" alt="Streak Stats">
+</p>
+
+---
+
+<p align="center">
+  <i>"The sky is not the limit when you have a quadcopter and a dream"</i> ✨
+</p>
