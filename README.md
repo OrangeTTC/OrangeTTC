@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm Orange</h1>
 
 <p align="center">
-  <a href="https://github.com/Orange"><img src="https://img.shields.io/github/followers/Orange?label=Follow&style=social" alt="GitHub Followers"></a>
+  <a href="https://github.com/OrangeTTC"><img src="https://img.shields.io/github/followers/OrangeTTC?label=Follow&style=social" alt="GitHub Followers"></a>
   <a href="mailto:1173205140@qq.com"><img src="https://img.shields.io/badge/Email-1173205140%40qq.com-blue?style=flat-square&logo=qq" alt="Email"></a>
   <img src="https://img.shields.io/badge/Age-21-blueviolet?style=flat-square" alt="Age">
   <img src="https://img.shields.io/badge/School-UESTC-red?style=flat-square&logo=university" alt="School">
